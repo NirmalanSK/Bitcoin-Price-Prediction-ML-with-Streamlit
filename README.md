@@ -23,15 +23,6 @@ The app allows users to input/visualize data and view **predicted Bitcoin prices
 - Interactive **Streamlit Web App**  
 
 ---
-
-## 📂 Project Structure
-├── app.py # Streamlit app script
-├── BitCoin-Price-Prediction-ML-with-Streamlit.ipynb # Jupyter notebook (model training)
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── models/ # Saved ML models (pickle files)
-
----
 ## Dataset
 The dataset contains historical Bitcoin price data.
 - Preprocessing steps include:
@@ -60,7 +51,7 @@ streamlit run app.py
 http://localhost:8501
 ---
 ### app can be deployed on Streamlit Cloud
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-link)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bitcoin-price-prediction-ml-with-app-a8au6ntyeavugfsjkkvsqk.streamlit.app/)
 
 ---
 
